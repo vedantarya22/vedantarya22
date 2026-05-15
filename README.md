@@ -73,19 +73,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantarya22&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantarya22&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantarya22&layout=compact&theme=tokyonight" alt="languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vedantarya22&show_icons=true&theme=github_dark&hide_border=true" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantarya22&layout=compact&theme=github_dark&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=vedantarya22&theme=github-dark&hide_border=true" 
+  />
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
