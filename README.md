@@ -70,38 +70,24 @@
 
 🔗 Live Website: https://www.zoontal.com/  
 🔗 GitHub: https://github.com/vedantarya22
+
+---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=vedantarya22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  />
-
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantarya22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantarya22&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img 
-    width="70%"
-    src="https://streak-stats.demolab.com?user=vedantarya22&theme=tokyonight&hide_border=true" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantarya22&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantarya22&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=vedantarya22&theme=github-dark&hide_border=true" 
-  />
-</p>
 ## 🌐 Connect With Me
 
 <p align="center">
