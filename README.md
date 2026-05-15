@@ -74,16 +74,9 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantarya22&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantarya22&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantarya22&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
