@@ -59,7 +59,7 @@
 - Integrated Chart.js for dynamic trading charts and analytics
 
 🔗 Live Website: https://kiteved.onrender.com/  
-🔗 GitHub: https://github.com/vedantarya22
+🔗 GitHub: https://github.com/vedantarya22/Zerodha-inspired-clone
 
 ---
 
@@ -69,7 +69,7 @@
 - Integrated Cloudinary image uploads and optimized deployment on Render
 
 🔗 Live Website: https://www.zoontal.com/  
-🔗 GitHub: https://github.com/vedantarya22
+🔗 GitHub: https://github.com/vedantarya22/zoontal-ecommerce-website
 
 ---
 ## 📊 GitHub Stats
