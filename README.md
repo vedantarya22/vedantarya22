@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vedant Arya</h1>
-<h3 align="center">Software Developer | MERN Stack | iOS Developer | AR & Real-Time Systems Enthusiast</h3>
+<h3 align="center">Software Developer | MERN Stack | iOS Developer | Real-Time Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/vedantarya22">
@@ -34,7 +34,6 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![UIKit](https://img.shields.io/badge/-UIKit-blue?style=for-the-badge)
-![ARKit](https://img.shields.io/badge/-ARKit-black?style=for-the-badge&logo=apple)
 ![RealityKit](https://img.shields.io/badge/-RealityKit-grey?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -46,21 +45,31 @@
 ### 🌿 PlantCare App
 - Built a full-stack plant care ecosystem using Swift + Node.js + MongoDB
 - Implemented encrypted real-time messaging using Socket.io, X25519 ECDH, and AES-256-GCM
-- Developed AR-based plant placement using ARKit & RealityKit
+- Developed immersive 3D plant visualization features using RealityKit
 - Created reusable MVC-based UIKit architecture with task management features
+
+🔗 GitHub: https://github.com/vedantarya22  
+🔗 Live Demo: Coming Soon
+
+---
 
 ### 📈 Zerodha-Inspired Trading Platform
 - Developed a full-stack trading platform with portfolio management and stock visualization
 - Implemented secure JWT-based cross-app authentication between two React apps
 - Integrated Chart.js for dynamic trading charts and analytics
 
+🔗 Live Website: https://kiteved.onrender.com/  
+🔗 GitHub: https://github.com/vedantarya22
+
+---
+
 ### 🛍 Zoontal — Kashmiri Clothing Brand Website
 - Developed a production-ready MERN e-commerce platform
 - Built admin dashboard with JWT authentication and product CRUD operations
 - Integrated Cloudinary image uploads and optimized deployment on Render
 
----
-
+🔗 Live Website: https://www.zoontal.com/  
+🔗 GitHub: https://github.com/vedantarya22
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,19 +86,21 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/vedantarya22" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="mailto:va.vedant@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/vedantarya22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:va.vedant@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/vedantarya22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
 
 ## ⚡ Fun Fact
 
