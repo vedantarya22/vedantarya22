@@ -53,7 +53,7 @@
 
 ---
 
-### 📈 Zerodha-Inspired Trading Platform
+### 📈 KITEVED- A ZERODHA Inspired Trading Platform
 - Developed a full-stack trading platform with portfolio management and stock visualization
 - Implemented secure JWT-based cross-app authentication between two React apps
 - Integrated Chart.js for dynamic trading charts and analytics
